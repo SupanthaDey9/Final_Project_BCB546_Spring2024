@@ -12,8 +12,8 @@ De Kort, H., Panis, B., Deforce, D., Van Nieuwerburgh, F., & Honnay, O. (2020). 
 - **Supantha Dey**
 
 ## Repository Structure
-- `spatial.pdf`: The pdf file of the original publication.
-- `Ppt.pdf`: The powerpoint slides that was presented to the BCB546 class.
+- `Original Paper - De Kort - Ecological divergence of wild strawberry DNA methylation patterns at distinct spatial.pdf`: The pdf file of the original publication.
+- `BCB546 Final Ppt.pdf`: The powerpoint slides that was presented to the BCB546 class.
 - `Figure2a-b_Annotation.ipynb`: Python script file that contains the python code used to generate Figure 2a and figure 2b.
 - `Figure2a.png`: The bar plot generated using the strawberry data and python script. 
 - `Figure2b.png`: The box plot generated using the strawberry data and python script.
