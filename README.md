@@ -19,5 +19,5 @@ De Kort, H., Panis, B., Deforce, D., Van Nieuwerburgh, F., & Honnay, O. (2020). 
 - `Figure2b.png`: The box plot generated using the strawberry data and python script.
 - `Figure3_4 folder`: This directory contains the csv files used in the script named as "firstsheet.csv" and " second.csv". The script is stored as a python 3 jupyter notebook named "Figures3.4.ipynb". Finally, the generated figures are stored in the "Final_Figures" folder.
 - `Figure5_Edited.ipnyb`: The script is stored as a python 3 jupyter notebook and the figure is saved as **Figure_5_Edited.png**.
-- `New Necessary Figure from Table`: The script is stored as a python 3 jupyter notebook and the figure is saved as **Supplementary Figure Necessary.png**
+- `New Necessary Figure from Table`: The script is stored as a python 3 jupyter notebook and the figure is saved as **Supplementary Figure Necessary.png.**
 - `Figure6 folder`: Contains the manually annotated "mec15689-sup-0002-table-s7-context.csv", which contains the filtered DMC context from their filtered "DMCs_Dryad.csv" file, added to the unfiltered supplementary material containing the TE type "mec15689-sup-0002-tables1-s7.xlsx" file on the final page.
